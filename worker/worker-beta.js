@@ -78,11 +78,11 @@ const uiConfig = {
     "path_nav_alert_class": "alert alert-primary", // https://getbootstrap.com/docs/4.0/components/alerts/#examples
     "file_view_alert_class": "alert alert-danger", // https://getbootstrap.com/docs/4.0/components/alerts/#examples
     "file_count_alert_class": "alert alert-secondary", // https://getbootstrap.com/docs/4.0/components/alerts/#examples
-    "contact_link": "https://t.me/Kaveesha_Induwara", // Link to Contact Button on Menu
+    "contact_link": "https://t.me/Monster_Zero1", // Link to Contact Button on Menu
     "copyright_year": "2021", // year of copyright, can be anything like 2015 - 2020 or just 2020
     "company_name": "FZBOTS", // Name next to copyright
     "company_link": "https://t.me/FZBOTS", // link of copyright name
-    "credit": false, // Set this to true to give us credit
+    "credit": true, // Set this to true to give us credit
     "display_size": true, // Set this to false to hide display file size
     "display_time": false, // Set this to false to hide display modified time for folder and files
     "display_download": true, // Set this to false to hide download icon for folder and files on main index
@@ -101,7 +101,7 @@ const uiConfig = {
     "plyr_io_video_resolution": "16:9", // For reference, visit: https://github.com/sampotts/plyr#options
     "unauthorized_owner_link": "https://telegram.dog/Telegram", // Unauthorized Error Page Link to Owner
     "unauthorized_owner_email": "abuse@telegram.org", // Unauthorized Error Page Owner Email
-    "arc_code": "ogmAA3ct" // arc.io Integraion Code, get yours from https://portal.arc.io
+    "arc_code": "ogmAA3ct" // arc.io Integraion Code, 
 };
 
 
