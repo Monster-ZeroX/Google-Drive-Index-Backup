@@ -14,13 +14,13 @@
 
 * If your index stopped working, that means you're using old config, please generate new code with features and bug fixes.
 
-### [Generate Code](https://bhadoo.mirrorleech.workers.dev/)
+### [Generate Code](https://gen.fzcloud.workers.dev/)
 
-* Discuss Problems here at [Discussions](https://github.com/OneFusionPlus/Google-Drive-Index/discussions)
+* Discuss Problems here at [Discussions](https://github.com/kaviya-admin/Google-Drive-Index/discussions)
 * Supports Both My and Team/Shared Drives with Dark Mode.
 * Click https://bhadoo.mirrorleech.workers.dev to make yours 
 
-[![](https://opengraph.githubassets.com/cc723ada47a587e6a6de9850ee06dc5e6eeeb8a33560e9313cafdebc4c18bb42/OneFusionPlus/Google-Drive-Index)](https://github.com/OneFusionPlus/Google-Drive-Index)
+[![](https://opengraph.githubassets.com/cc723ada47a587e6a6de9850ee06dc5e6eeeb8a33560e9313cafdebc4c18bb42/OneFusionPlus/Google-Drive-Index)](https://github.com/kaviya-admin/Google-Drive-Index)
 
 [![Screenshot](https://cdn.jsdelivr.net/gh/OneFusionPlus/Google-Drive-Index@master/images/themes/vapor.png)]()
 
@@ -28,9 +28,7 @@
 
 `Note: The Changes in your workers config can effect later due to cache. Use incognito mode everytime to open the worker URL to overcome that issue.`
 
-## Project Website
 
-* [gdi.js.org](https://gdi.js.org) by [js.org](https://js.org)
 
 ## Demo Site
 
@@ -39,7 +37,7 @@
 ## How to
 
 * Stable Release `2.0.18` on bhadoo.mirrorleech.workers.dev
-* Beta Version (Latest) - [bhadoo.mirrorleech.workers.dev](https://bhadoo.mirrorleech.workers.dev) (Dark Theme Available)
+* Beta Version (Latest) - [gen.fzcloud.workers.dev](https://gen.fzcloud.workers.dev/) (Dark Theme Available)
 * If you want to deploy main drive leave the option ROOT as it is.
 * If you want to deploy your Team Drive/Shared Drive/Folder then copy the ID and replace it with ROOT.
 * Eg. if you open this shared drive `https://drive.google.com/drive/u/0/folders/0AOM2i7MQiuWIUk9PVA` - `0AOM2i7MQiuWIUk9PVA` is its ID.
@@ -182,12 +180,6 @@ const uiConfig = {
 };
 ````
 
-## arc.io Integration
-
-* arc.io is embedded in code to support gdi.js.org
-* if you have approved arc.io account, use your code.
-* incase you don't have arc account and want to support us, please keep our arc.io code in your index.
-* if anyone doesn't want to support us and want to remove arc, remove [this](https://github.com/AmirulAndalib/Google-Drive-Index/blob/master/worker/worker-beta.js#L133) line from workers code.
 
 ## Themes
 
